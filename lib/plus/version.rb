@@ -1,3 +1,3 @@
-module Plus
-  VERSION = "0.1.0"
+module Plus 
+    VERSION = "0.0.1"
 end
